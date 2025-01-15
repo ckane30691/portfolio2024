@@ -535,6 +535,11 @@ i {
   color: #ffc200;
 }
 
+#redis-icon {
+  font-weight: bold;
+  font-family:cursive;
+}
+
 @media (min-width: 1270px) {
   .owl-theme .owl-dots {
     position: relative;
